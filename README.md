@@ -25,7 +25,7 @@ The peerAdvice concept provides exactly that in a peer-to-peer connection with s
 
 ## Challenges
 **Feature management:**
-* For 3 out of 4 of us, this hackathon was a first. Not knowing what to expect as well as due to our sheer excitement and eagerness to dive in, we bit off more than we could initially chew off. Wanting to implement a variety of novel APIs and use technologies and languages we have never touched before such as react and typescript, we ended up spending the first ~7ish hours of the hackathon with just setup.
+* For 3 out of 4 of us, this hackathon was a first. Not knowing what to expect as well as due to our sheer excitement and eagerness to dive in, we bit off more than we could initially chew off. Wanting to implement a variety of novel APIs and use technologies and languages we have never touched before such as react and typescript, we ended up spending the first ~7ish hours of the 24 hour hackathon with just setup.
 
 **Language Gap:**
 * With our expertise being in different coding languages, we had to settle for our commonalities to finally all get on the same page.
